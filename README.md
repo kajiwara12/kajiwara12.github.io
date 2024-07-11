@@ -1,3 +1,3 @@
 # kajiwara12.github.io
-My website
+Hello World!
  updating the readme on my local machine
